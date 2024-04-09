@@ -1,9 +1,7 @@
-# Juicy-2
+# Juicy - A space juicing fantasy
 
-A space juicing fantasy
+## Sources
 
-# Sources
+### © Copyright 2023 Prof. MJ Rossetti | source
 
-## © Copyright 2023 Prof. MJ Rossetti | source
-
-## Pictures generated from Stable Diffusion
+### Pictures generated from Stable Diffusion
